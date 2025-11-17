@@ -1,0 +1,5 @@
+{
+  "name": "Novel Writer AI",
+  "description": "An AI-powered tool to help authors generate novel outlines and write chapter content. Built with React and the Gemini API.",
+  "requestFramePermissions": []
+}
